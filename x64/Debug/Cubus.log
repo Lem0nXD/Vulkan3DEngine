@@ -1,0 +1,10 @@
+﻿  cbs_pipeline.cpp
+  main.cpp
+C:\Users\Dell\source\repos\Cubus\cbs_renderer.hpp(22,40): warning C4267: 'return': conversion from 'size_t' to 'uint32_t', possible loss of data
+  main_app.cpp
+C:\Users\Dell\source\repos\Cubus\cbs_renderer.hpp(22,40): warning C4267: 'return': conversion from 'size_t' to 'uint32_t', possible loss of data
+  main_imgui.cpp
+C:\Users\Dell\source\repos\Cubus\main_imgui.cpp(178,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  render_system.cpp
+  Generating Code...
+  Cubus.vcxproj -> C:\Users\Dell\source\repos\Cubus\x64\Debug\Cubus.exe

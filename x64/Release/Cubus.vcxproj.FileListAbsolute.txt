@@ -1,0 +1,2 @@
+C:\Users\Dell\source\repos\Cubus\x64\Release\Cubus.exe
+C:\Users\Dell\source\repos\CubusVulkan\x64\Release\Cubus.exe
